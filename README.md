@@ -22,11 +22,11 @@ This project utilizes a **Router-Worker** multi-agent design pattern. An entry-p
 * **Auditability:** Maintains a clear routing log and calculation rationale for every transaction, ensuring compliance readiness for ESG reporting.
 
 ## 📁 Repository Structure
-esg-multiagent-auditor/
+'''esg-multiagent-auditor/
 ├── lead_router_prompt.md    # System prompt for the primary router
 ├── scope_agents_config.yaml # YAML configurations for the worker network
 ├── system_flow.png          # Architecture visual map
-└── README.md                # Documentation
+└── README.md                # Documentation'''
 
 🛠️ Tech Stack
 - Orchestration: Google Cloud Gemini Enterprise Agent Platform
