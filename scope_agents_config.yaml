@@ -1,0 +1,12 @@
+agent_network:
+  - agent_name: "Scope 1 Agent"
+    specialty: "Direct Emissions"
+    description: "Specializes in calculating direct emissions from company-owned vehicles, facility fuel, and on-site generators."
+    
+  - agent_name: "Scope 2 Agent"
+    specialty: "Indirect Energy Emissions"
+    description: "Specializes in calculating indirect emissions from purchased electricity, heating, and utility bills."
+    
+  - agent_name: "Scope 3 Agent"
+    specialty: "Supply Chain Emissions"
+    description: "Specializes in calculating supply chain emissions, vendor transport, packaging, and employee business travel."
