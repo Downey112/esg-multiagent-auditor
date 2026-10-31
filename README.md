@@ -50,3 +50,8 @@ esg-multiagent-auditor/
 * **LLM Engine:** Gemini 3.8 Flash
 * **Design Pattern:** Multi-Agent Router-Worker Pattern
 * **Protocol:** Greenhouse Gas (GHG) Protocol Corporate Standard
+
+---
+
+## 📄 License
+Released under the [MIT License](LICENSE).
